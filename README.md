@@ -1,2 +1,2 @@
 # Intocode_App
-React Projekt Abgabe 05.01
+Abschluss-Projekt App-Entwicklung Abgabedatum spätestens 5.1.2023 23:59 per E-Mail an kelvin.homann@gmail.com Gruppenmitglieder sind: Andres und Tamman
