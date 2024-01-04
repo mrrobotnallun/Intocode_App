@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "name": "Spaghetti", "quantity": "200g", "unit": "grams" },
+      { "name": "Ground beef", "quantity": "500g", "unit": "grams" },
+      { "name": "Tomato sauce", "quantity": "400g", "unit": "grams" },
+      { "name": "Onion", "quantity": "1", "unit": "unit" },
+      { "name": "Garlic", "quantity": "2 cloves", "unit": "cloves" }
+    ],
+    "totalCookingTimeMinutes": 30,
+    "calories100g": 200,
+    "instructions": "Cook spaghetti. Brown beef. Mix with sauce. Serve.",
+    "isFavorite": false
+  },
+  {
+    "id": "2",
+    "name": "Chicken Stir Fry",
+    "ingredients": [
+      { "name": "Chicken breast", "quantity": "400g", "unit": "grams" },
+      { "name": "Broccoli", "quantity": "1 head", "unit": "head" },
+      { "name": "Soy sauce", "quantity": "3 tbsp", "unit": "tablespoons" },
+      { "name": "Garlic", "quantity": "3 cloves", "unit": "cloves" },
+      { "name": "Ginger", "quantity": "1 tbsp", "unit": "tablespoon" }
+    ],
+    "totalCookingTimeMinutes": 25,
+    "calories100g": 150,
+    "instructions": "Stir-fry chicken and vegetables. Add soy sauce, garlic, and ginger. Cook until done.",
+    "isFavorite": true
+  },
+  {
+    "id": "3",
+    "name": "Fried Rice",
+    "ingredients": [
+      { "name": "Rice", "quantity": "200g", "unit": "grams" },
+      { "name": "Eggs", "quantity": "2", "unit": "unit" },
+      { "name": "Soy sauce", "quantity": "2 tbsp", "unit": "tablespoons" },
+      { "name": "Peas", "quantity": "100g", "unit": "grams" },
+      { "name": "Carrots", "quantity": "100g", "unit": "grams" }
+    ],
+    "totalCookingTimeMinutes": 20,
+    "calories100g": 120,
+    "instructions": "Cook rice. Scramble eggs. Add rice, soy sauce, peas, and carrots. Cook until done.",
+    "isFavorite": false
+  },
+  {
+    "id": "4",
+    "name": "Pancakes",
+    "ingredients": [
+      { "name": "Flour", "quantity": "200g", "unit": "grams" },
+      { "name": "Milk", "quantity": "300ml", "unit": "milliliters" },
+      { "name": "Eggs", "quantity": "2", "unit": "unit" },
+      { "name": "Sugar", "quantity": "1 tbsp", "unit": "tablespoon" },
+      { "name": "Butter", "quantity": "1 tbsp", "unit": "tablespoon" }
+    ],
+    "totalCookingTimeMinutes": 15,
+    "calories100g": 150,
+    "instructions": "Mix flour, milk, eggs, and sugar. Cook in pan with butter. Serve with syrup.",
+    "isFavorite": false
+  },
+  {
+    "id": "5",
+    "name": "Chicken Noodle Soup",
+    "ingredients": [
+      { "name": "Chicken breast", "quantity": "400g", "unit": "grams" },
+      { "name": "Noodles", "quantity": "200g", "unit": "grams" },
+      { "name": "Carrots", "quantity": "2", "unit": "unit" },
+      { "name": "Celery", "quantity": "2 stalks", "unit": "stalks" },
+      { "name": "Chicken broth", "quantity": "1 can", "unit": "can" }
+    ],
+    "totalCookingTimeMinutes": 30,
+    "calories100g": 100,
+    "instructions": "Boil chicken. Add vegetables and noodles. Cook until done.",
+    "isFavorite": false
+  },
+  {
+    "id": "6",
+    "name": "Chicken Parmesan",
+    "ingredients": [
+      { "name": "Chicken breast", "quantity": "400g", "unit": "grams" },
+      { "name": "Tomato sauce", "quantity": "400g", "unit": "grams" },
+      { "name": "Mozzarella", "quantity": "200g", "unit": "grams" },
+      { "name": "Bread crumbs", "quantity": "1 cup", "unit": "cup" },
+      { "name": "Parmesan", "quantity": "1 cup", "unit": "cup" }
+    ],
+    "totalCookingTimeMinutes": 45,
+    "calories100g": 200,
+    "instructions": "Bread chicken. Bake at 400F for 20 minutes. Add sauce and cheese. Bake for 15 minutes.",
+    "isFavorite": false
+  },
+  {
+    "id": "7",
+    "name": "Chicken Tacos",
+    "ingredients": [
+      { "name": "Chicken breast", "quantity": "400g", "unit": "grams" },
+      { "name": "Tortillas", "quantity": "8", "unit": "unit" },
+      { "name": "Tomato", "quantity": "1", "unit": "unit" },
+      { "name": "Lettuce", "quantity": "1 head", "unit": "head" },
+      { "name": "Sour cream", "quantity": "1 cup", "unit": "cup" }
+    ],
+    "totalCookingTimeMinutes": 30,
+    "calories100g": 150,
+    "instructions": "Cook chicken. Chop vegetables. Assemble tacos. Serve with sour cream.",
+    "isFavorite": false
+  },
+  {
+    "id": "8",
+    "name": "Chicken Salad",
+    "ingredients": [
+      { "name": "Chicken breast", "quantity": "400g", "unit": "grams" },
+      { "name": "Lettuce", "quantity": "1 head", "unit": "head" },
+      { "name": "Tomato", "quantity": "1", "unit": "unit" },
+      { "name": "Cucumber", "quantity": "1", "unit": "unit" },
+      { "name": "Salad dressing", "quantity": "1/2 cup", "unit": "cup" }
+    ],
+    "totalCookingTimeMinutes": 30,
+    "calories100g": 100,
+    "instructions": "Cook chicken. Chop vegetables. Assemble salad. Serve with dressing.",
+    "isFavorite": false
+  },
+  {
+    "id": "9",
+    "name": "Beef Stir Fry",
+    "ingredients": [
+      { "name": "Beef", "quantity": "400g", "unit": "grams" },
+      { "name": "Broccoli", "quantity": "1 head", "unit": "head" },
+      { "name": "Soy sauce", "quantity": "3 tbsp", "unit": "tablespoons" },
+      { "name": "Garlic", "quantity": "3 cloves", "unit": "cloves" },
+      { "name": "Ginger", "quantity": "1 tbsp", "unit": "tablespoon" }
+    ],
+    "totalCookingTimeMinutes": 25,
+    "calories100g": 150,
+    "instructions": "Stir-fry beef and vegetables. Add soy sauce, garlic, and ginger. Cook until done.",
+    "isFavorite": false
+  }
+]
