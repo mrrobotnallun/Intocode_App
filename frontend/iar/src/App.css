@@ -90,3 +90,20 @@ li{
 .btn.btn-secondary.mt-4{
   float: right;
 }
+
+  .col-md-4 {
+    min-width: 200px;
+  }
+
+  .col-md-3 {
+    width: 23%;
+    text-align: right;
+    padding-right: 1.5rem;
+  }
+
+  .col-md-9 {
+    width: 77%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

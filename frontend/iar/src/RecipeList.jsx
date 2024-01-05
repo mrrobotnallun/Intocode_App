@@ -67,8 +67,8 @@ function RecipeList() {
             {notification}
         </div>
         )}
-        {/* Zeigt eine Überschrift an, wenn der Filter aktiv ist. */}
-        <h3>{filterFavorites ? "The favorites filter is currently selected." : ""}</h3>
+        {/* Zeigt eine Überschrift an, wenn der Filter aktiv ist.  So im Nachhinein garnicht mehr notwendig*/}
+        {/*<h3>{filterFavorites ? "The favorites filter is currently selected." : ""}</h3> */}
         <h1>My Recipes</h1>
         {/* Suchfeld und Button zum Hinzufügen neuer Rezepte */}
         <div className="row">
